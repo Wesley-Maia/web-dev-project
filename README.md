@@ -6,3 +6,5 @@ Este repositório contém os projetos desenvolvidos por _[Wesley Oliveira Maia](
 
 - dev01: _[Building a login screen with React and Bootstrap](https://supertokens.com/blog/building-a-login-screen-with-react-and-bootstrap)_
 
+- dev02: _[React Modal](https://www.npmjs.com/package/react-modal)_
+
