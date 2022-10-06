@@ -8,11 +8,19 @@ Este repositório contém os projetos desenvolvidos por _[Wesley Oliveira Maia](
 _____________
 
 - dev02: _[React Modal](https://www.npmjs.com/package/react-modal)_
+
 To install:
 npm install --save react-modal
 _____________
 
 - dev03: _[Tutorial: Criando um componente de Modal no ReactJS](https://www.youtube.com/watch?v=xDVjbp8l96M)_
+
 To install:
 npm install --save-dev node-sass
+_____________
+
+- dev04: _[Implementing react-input-mask for web apps](https://blog.logrocket.com/implementing-react-input-mask-web-apps/)_
+
+To install:
+npm install react-input-mask --save
 _____________
