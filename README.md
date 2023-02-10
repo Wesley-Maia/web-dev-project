@@ -24,3 +24,8 @@ _____________
 To install:
 npm install react-input-mask --save
 _____________
+
+## Java :white_check_mark:
+
+- dev05: _[JavaMail Example - Send Mail in Java using SMTP](https://www.digitalocean.com/community/tutorials/javamail-example-send-mail-in-java-smtp)_
+_____________
